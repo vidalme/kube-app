@@ -1,6 +1,6 @@
 apiVersion: apps/v1
 kind: Deployment
-metada:
+metadata:
   name: vprodb
   labels:
     app: vprodb
